@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there is the code of the paper "Difficulty-Aware Knowledge-Augmented Deep Research for Multimodal Multi-Hop Reasoning" 👋
 
 <!--
 **DMRDR/DMRDR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
